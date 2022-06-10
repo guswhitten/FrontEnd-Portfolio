@@ -1,4 +1,5 @@
-This is test 2
+View the React app here:
+https://guswhitten.github.io/tictactoe/
 
 # Getting Started with Create React App
 
